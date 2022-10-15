@@ -1,0 +1,21 @@
+.back {
+  background-color: #93c5f5;
+  height: 100vh;
+  padding: 30px;
+}
+.card {
+  background-color: white;
+  padding: 10px;
+}
+.heading {
+  font-size: 38px;
+  margin-bottom: 8px;
+}
+.p {
+  font-size: 18px;
+  margin-left: 10px;
+}
+.countryname {
+  font-size: 24px;
+  margin: 10px;
+}

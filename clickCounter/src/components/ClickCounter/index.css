@@ -1,0 +1,29 @@
+.back {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: 38px;
+  margin: 2px;
+  color: #2d3a35;
+}
+.count {
+  color: #c20a72;
+  font-size: 38px;
+}
+.b {
+  width: 100px;
+  height: 36px;
+  background-color: #007bff;
+  color: #f1f5f8;
+  border-radius: 0px;
+  text-align: center;
+  margin: 2px;
+}
+.description {
+  color: #2d3a35;
+  font-weight: 300;
+  margin: 2px;
+}

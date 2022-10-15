@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.back {
+  padding: 30px;
+}
+
+.card {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  border-radius: 5px;
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

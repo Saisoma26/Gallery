@@ -1,0 +1,68 @@
+.latestmatches-heading {
+  color: white;
+  font-size: 18px;
+}
+.recent-matches-list-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding-left: 0;
+  margin-top: 24px;
+}
+@media screen and (min-width: 768px) {
+  .recent-matches-list {
+    margin-top: 32px;
+  }
+}
+
+.RCB {
+  background-image: linear-gradient(#a4261d, #1e293b);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.KKR {
+  background-image: linear-gradient(to Bottom, #5755a7, #1e293b);
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.KXP {
+  background-image: linear-gradient(to Bottom, #d91c1f, #1e293b);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.CSK {
+  background-image: linear-gradient(to Bottom, #f7db00, #1e293b);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.RR {
+  background-image: linear-gradient(to Bottom, #da237b, #1e293b);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.MI {
+  background-image: linear-gradient(to Bottom, #13418b, #1e293b);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.SH {
+  background-image: linear-gradient(to Bottom, #f26d22, #1e293b);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.DC {
+  background-image: linear-gradient(to Bottom, #4f5db0, #1e293b);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}

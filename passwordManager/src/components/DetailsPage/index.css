@@ -1,0 +1,127 @@
+.back {
+  background-image: linear-gradient(to Bottom, #9ba9eb, #c3caea);
+  background-size: cover;
+  height: cover;
+  padding: 10px;
+}
+.app-logo {
+  width: 100px;
+  height: 50px;
+  margin-bottom: 18px;
+}
+.up-container {
+  background-color: #5763a5;
+  width: 80%;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin-right: auto;
+  margin-left: auto;
+}
+.input-container {
+  width: 50%;
+  background-color: #454f84;
+  padding: 10px;
+}
+.heading {
+  color: #f8fafc;
+  font-size: 28px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.formel {
+  display: flex;
+  flex-direction: column;
+}
+.each-input-container {
+  background-color: #f8fafc;
+  display: flex;
+  padding: 10px;
+  padding-right: 0px;
+}
+.inputel {
+  height: 38px;
+  width: 300px;
+}
+.icons {
+  width: 15px;
+  height: 15px;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+.b {
+  width: 80px;
+  height: 32px;
+  background-color: #0b69ff;
+  color: white;
+  text-align: center;
+  padding: 4px;
+  margin-left: 60%;
+  margin-top: 10px;
+}
+.pmimage {
+  width: 400px;
+  height: 250px;
+  margin-left: 10px;
+}
+.down-container {
+  margin-top: 10px;
+  background-color: #5763a5;
+  width: 80%;
+  padding: 10px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+.navtext {
+  color: #f8fafc;
+  font-size: 24px;
+  font-weight: bold;
+}
+.search-input-container {
+  background-color: #f8fafc;
+  width: 200px;
+  height: 32px;
+  display: flex;
+  margin-top: 20px;
+}
+.searchicon {
+  width: 20px;
+  height: 15px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+.hr {
+  background-color: #f8fafc;
+  color: #f8fafc;
+  line-height: normal;
+}
+.list-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.nopasswords-image {
+  width: 400px;
+  height: 250px;
+  align-self: center;
+  margin-left: 30%;
+  margin-right: auto;
+}
+.nopasswordstextcontent {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  color: #f8fafc;
+}
+.count {
+  background-color: transparent;
+  border-width: 1px;
+  border-color: #f8fafc;
+  font-size: 16px;
+}

@@ -1,0 +1,37 @@
+.back {
+  background-image: linear-gradient(to Right, #fa7257, #fc63a7, #dd1264);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: white;
+  font-size: 44px;
+  font-weight: bold;
+}
+.buttons-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+.b {
+  width: cover;
+  height: 32px;
+  background-color: white;
+  color: #dd1264;
+  text-align: center;
+  padding: 3px;
+  margin: 15px;
+}
+.card {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  color: #dd1264;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

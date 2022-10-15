@@ -1,0 +1,61 @@
+.back {
+  background-image: linear-gradient(to Right, #ffeeee, #ffc0bb);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  height: 100vh;
+}
+.card {
+  background-color: white;
+  text-align: center;
+}
+.show {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  text-align: center;
+}
+.hide {
+  display: none;
+}
+.heading {
+  color: #0f172a;
+  font-size: 44px;
+  text-align: center;
+}
+.emoji-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: space-around;
+}
+.listitem {
+  margin-right: 10px;
+}
+.emoji {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+.name {
+  color: #ffeeee;
+  font-size: 18px;
+  margin: 10px;
+}
+.loveemoji {
+  align-self: center;
+  width: 40p;
+  height: 40px;
+  margin: 5px;
+}
+.heading1 {
+  color: #0f172a;
+  font-size: 44px;
+}
+.thankdescription {
+  color: #1e293b;
+  font-size: 18px;
+}

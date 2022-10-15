@@ -1,0 +1,21 @@
+.item-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.frst-line {
+  display: flex;
+  justify-content: space-between;
+}
+.item-heading {
+  font-size: 20px;
+  font-weight: bold;
+}
+.item-publish-date {
+  color: #9aa5b1;
+  font-size: 18px;
+}
+.item-description {
+  color: #9aa5b1;
+  font-size: 16px;
+}

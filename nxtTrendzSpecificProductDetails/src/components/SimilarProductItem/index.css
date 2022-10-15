@@ -1,0 +1,126 @@
+/* .list-item {
+  list-style-type: none;
+  width: 200px;
+  background-color: white;
+  padding: 15px;
+  flex-grow: 1;
+}
+.similar-image {
+  width: 80%;
+  height: 80%;
+  margin-bottom: 8px;
+}
+.product-name {
+  font-size: 18px;
+  font-weight: bold;
+  color: #12022f;
+  line-height: 1.5;
+}
+.brand {
+  color: #475569;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.5;
+}
+.price-rating-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.price {
+  color: #1e293b;
+  font-weight: bold;
+  font-size: 16px;
+}
+.rating-container {
+  width: 50px;
+  height: 25px;
+  background-color: #3b82f6;
+  border-radius: 4px;
+  border-width: 0px;
+  display: flex;
+  align-items: center;
+}
+.rating {
+  font-size: 12px;
+  color: white;
+  font-weight: bold;
+}
+.stars-image {
+  width: 15px;
+  height: 15px;
+} */
+
+
+.similar-product-item {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+}
+
+@media screen and (min-width: 768px) {
+  .similar-product-item {
+    width: 200px;
+    margin-right: 64px;
+  }
+}
+
+.similar-product-image {
+  width: 200px;
+  border-radius: 8px;
+}
+
+.similar-product-title {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+
+.similar-products-brand {
+  color: #594d6d;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin-top: 6px;
+}
+
+.similar-product-price-rating-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 200px;
+}
+
+.similar-product-price {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.similar-product-rating-container {
+  display: flex;
+  align-items: center;
+  background-color: #3b82f6;
+  border-radius: 6px;
+  padding-left: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-right: 8px;
+}
+
+.similar-product-rating {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  margin-right: 4px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.similar-product-star {
+  height: 14px;
+  width: 14px;
+}

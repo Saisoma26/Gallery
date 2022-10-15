@@ -1,0 +1,48 @@
+.back {
+  background-image: linear-gradient(to Right, #f9d423, #e2a139);
+  height: 100vh;
+  background-size: cover;
+  padding: 50px;
+}
+.card {
+  background-color: white;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading {
+  color: #a35200;
+  font-size: 38px;
+  margin: 10px;
+  text-align: center;
+}
+.p {
+  color: #334155;
+  font-size: 24px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.image {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
+.b {
+  background-color: #f9d423;
+  color: #a35200;
+  text-align: center;
+  width: 100px;
+  height: 32px;
+  padding: 4px;
+  margin: auto;
+}
+.count-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.displaycount {
+  font-size: 18px;
+  color: #475569;
+}

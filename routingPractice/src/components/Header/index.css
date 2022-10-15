@@ -1,0 +1,29 @@
+.bg {
+  padding: 20px;
+}
+.back {
+  margin: 20px;
+  border-radius: 8px;
+  border-width: 5px;
+  border-color: #6d396b;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.head {
+  display: flex;
+}
+.logo {
+  width: 10px;
+  height: 8px;
+  margin-left: 4px;
+}
+.logoname {
+  color: #6d396b;
+  font-size: 18px;
+}
+.nav-menu {
+  display: flex;
+  justify-content: space-evenly;
+}

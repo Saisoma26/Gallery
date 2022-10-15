@@ -1,0 +1,21 @@
+.about-bg {
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about-image {
+  width: 250px;
+  height: 200px;
+  margin-bottom: 10px;
+}
+.about-text {
+  font-size: 24px;
+  text-align: center;
+}
+.heading {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}

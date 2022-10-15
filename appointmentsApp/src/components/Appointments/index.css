@@ -1,0 +1,101 @@
+.back {
+  background-image: linear-gradient(#fbc7d4, #9796f0);
+  background-size: cover;
+  height: 100vh;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.card {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+}
+.left-container {
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  color: #171f46;
+  font-size: 44px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.label {
+  color: #b5b7c4;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.inputel {
+  width: 300px;
+  height: 36px;
+  border-width: 1px;
+  border-color: #b5b7c4;
+  margin-bottom: 10px;
+}
+.addbutton {
+  width: 80px;
+  height: 32px;
+  background-color: #8b5cf6;
+  border-radius: 10px;
+  padding: 5px;
+  text-align: center;
+  color: white;
+  margin-bottom: 10px;
+}
+.appointmentimg {
+  width: 400px;
+  height: 200px;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.subheading {
+  color: #171f46;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-left: 18px;
+}
+.list-container {
+  list-style-type: none;
+  margin-left: 0px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.below-container {
+  display: flex;
+  justify-content: space-between;
+}
+.activeButton {
+  width: 100px;
+  height: 32px;
+  padding: 4px;
+  border-radius: 10px;
+  background-color: #8b5cf6;
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+}
+.inactiveButton {
+  width: 100px;
+  height: 32px;
+  padding: 4px;
+  border-radius: 10px;
+  background-color: white;
+  color: #8b5cf6;
+  border-width: 2px;
+  border-color: #8b5cf6;
+  text-align: center;
+  margin-top: 20px;
+}

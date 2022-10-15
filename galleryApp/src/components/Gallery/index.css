@@ -1,0 +1,22 @@
+.back {
+  padding: 30px;
+}
+.image {
+  height: 400px;
+  border-radius: 14px;
+  margin-bottom: 8px;
+}
+.heading {
+  color: #1e293b;
+  font-size: 32px;
+}
+.description {
+  color: #64748b;
+  font-size: 18px;
+  font-weight: bold;
+}
+.list-container {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}

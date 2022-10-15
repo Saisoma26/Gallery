@@ -1,0 +1,16 @@
+.products-bg {
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.products-image {
+  width: 100px;
+  height: 80px;
+  margin-bottom: 18px;
+}
+.heading {
+  font-size: 44px;
+  text-align: center;
+}

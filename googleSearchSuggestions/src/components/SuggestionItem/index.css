@@ -1,0 +1,14 @@
+.listitem {
+  display: flex;
+  justify-content: space-between;
+  align-items: space-between;
+}
+.suggetsionname {
+  color: #64748b;
+  font-size: 24px;
+}
+. image {
+  color: #64748b;
+  width: 20px;
+  height: 20px;
+}

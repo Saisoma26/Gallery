@@ -1,0 +1,81 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+.icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 20px;
+  background-color: #f59e0b;
+  margin-right: 10px;
+}
+.frstletter {
+  font-size: 18px;
+  text-align: center;
+}
+.name {
+  color: #334155;
+  font-size: 33px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.time {
+  color: #94a3b8;
+  font-size: 18px;
+}
+.comment {
+  color: #64748b;
+  font-size: 24px;
+  margin: 10px;
+}
+.likendelete {
+  display: flex;
+}
+.likeimage {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+.delete {
+  width: 30px;
+  height: 30px;
+  margin-left: 80px;
+}
+.liked {
+  color: #0b69ff;
+  font-size: 16px;
+}
+.notliked {
+  color: #7e858e;
+  font-size: 16px;
+}
+.deletebutton {
+  background-color: transparent;
+  width: 30px;
+  height: 30px;
+  border-width: 0px;
+}

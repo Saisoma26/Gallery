@@ -1,0 +1,15 @@
+.login-bg {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.login-heading {
+  font-size: 44px;
+  text-align: center;
+}
+.login-button {
+  border-width: 1px;
+  width: 140px;
+  height: 32px;
+  margin-left: 40%;
+}

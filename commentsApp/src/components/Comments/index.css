@@ -1,0 +1,63 @@
+.back {
+  padding: 20px;
+}
+.heading {
+  color: #1e293b;
+  font-size: 44px;
+  font-weight: bold;
+}
+.subheading {
+  color: #475569;
+  font-size: 24px;
+  font-weight: bold;
+}
+.card {
+  display: flex;
+  flex-direction: row;
+}
+.formel {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+.nameinput {
+  width: 200px;
+  height: 36px;
+  border-width: 4px;
+  border-color: #cbd2d9;
+  margin-left: 10px;
+}
+.commentinput {
+  width: 200px;
+  height: 100px;
+  border-width: 4px;
+  border-color: #cbd2d9;
+  margin: 10px;
+}
+.b {
+  background-color: #0284c7;
+  color: #cbd2d9;
+  padding: 4px;
+  width: 100px;
+  height: 32px;
+}
+.commentsimage {
+  width: 300px;
+  height: 300px;
+  margin-left: 60px;
+}
+.commentsbox {
+  color: #1e293b;
+  font-size: 12px;
+  padding: 10px;
+}
+.commentscount {
+  width: 10px;
+  height: 6px;
+  background-color: #0284c7;
+  color: white;
+  padding: 2px;
+}
+.list-container {
+  list-style-type: none;
+}

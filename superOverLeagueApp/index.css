@@ -1,0 +1,27 @@
+#root {
+  text-align: center;
+}
+.back {
+  background-color: #0f172a;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+.heading {
+  color: #f8fafc;
+  font-size: 40px;
+  text-align: center;
+}
+.images {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+}
+.image1 {
+  width: 300px;
+  height: 300px;
+}

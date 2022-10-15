@@ -1,0 +1,35 @@
+.match-details-container {
+  background-color: black;
+  width: 30%;
+  height: 220px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+.team-logo {
+  width: 60px;
+  height: 45px;
+}
+.team-name {
+  text-align: center;
+  font-size: 16px;
+  color: white;
+  margin-bottom: 8px;
+  flex-grow: 1;
+}
+.result {
+  color: white;
+  font-size: 10px;
+  margin-bottom: 10px;
+}
+.won {
+  color: #18ed66;
+  font-size: 14px;
+}
+.lost {
+  color: #e31a1a;
+  font-size: 14px;
+}

@@ -1,0 +1,25 @@
+.brightname {
+  color: #2563eb;
+  font-size: 18px;
+  width: 120px;
+  height: 32px;
+  background-color: transparent;
+  border-width: 0px;
+}
+.dim {
+  background-color: #7b8794;
+}
+.bright {
+  background-color: #2563eb;
+  color: #2563eb;
+}
+.dimname {
+  color: #7b8794;
+  width: 120px;
+  height: 32px;
+  background-color: transparent;
+  border-width: 0px;
+}
+.tab {
+  margin: 10px;
+}

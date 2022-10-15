@@ -1,0 +1,28 @@
+.back {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  width: 220px;
+  height: 100px;
+  margin: 10px;
+}
+.card-container {
+  background-color: white;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
+.input-container {
+  display: flex;
+  justify-content: center;
+  align-items: space-evenly;
+}
+.search-icon {
+  width: 30px;
+  height: 30px;
+  margin: 8px;
+}
+.inputs {
+  list-style-type: none;
+}

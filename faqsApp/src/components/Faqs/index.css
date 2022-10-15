@@ -1,0 +1,19 @@
+.back {
+  background-color: white;
+  background-size: cover;
+  height: 100vh;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.heading {
+  color: #cb8805;
+  font-size: 38px;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+  text-align: center;
+}
+.list-container {
+  list-style-type: none;
+  padding-left: 100px;
+  padding-right: 100px;
+}

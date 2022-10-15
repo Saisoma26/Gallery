@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.todoitem {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: space-evenly;
+}
+.title {
+  color: black;
+  font-size: 24px;
+  margin-right: 5px;
+}
+.b {
+  width: 100px;
+  height: 32px;
+  border-width: 3px;
+  border-color: #ff0b37;
+  padding: 3px;
+  text-align: center;
+  color: #ff0b37;
+  background-color: white;
+}

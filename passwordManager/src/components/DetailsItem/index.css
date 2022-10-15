@@ -1,0 +1,56 @@
+.list-item {
+  background-color: transparent;
+  border-color: #f8fafc;
+  border-width: 3px;
+  border-radius: 12px;
+  width: 200px;
+  height: 150px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.profile {
+  background-color: #10b981;
+  border-radius: 100%;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  margin-top: 8px;
+  padding: 4px;
+}
+.letter {
+  color: white;
+  font-size: 12px;
+  text-align: center;
+}
+.details-container {
+  margin-right: 10px;
+}
+.websitename {
+  color: #f8fafc;
+  font-size: 18px;
+  font-weight: 500;
+}
+.username {
+  font-size: 16px;
+  color: #f8fafc;
+  font-weight: 400;
+}
+.password {
+  color: #f8fafc;
+  font-size: 12px;
+}
+.deletebutton {
+  width: 20px;
+  height: 10px;
+  background-color: transparent;
+  border-width: 0px;
+  align-self: center;
+}
+.delete-image {
+  width: 20px;
+  height: 10px;
+}
+.stars-image{
+    width:100px;
+    height:30px;
+}

@@ -1,0 +1,54 @@
+.back {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.login-image {
+  width: 50%;
+  margin-right: 24px;
+  align-self: center;
+}
+.input-card {
+  width: 40%;
+  height: 85%;
+  shadow: 4px 2px 1px #3f3f3f;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 30px;
+}
+.logo-image {
+  width: 150px;
+  height: 60px;
+  margin-bottom: 10px;
+  align-self: center;
+}
+.formel {
+  display: flex;
+  flex-direction: column;
+}
+.inputel {
+  width: cover;
+  border-radius: 8px;
+  height: 38px;
+  margin-bottom: 10px;
+  border-width: 1px;
+}
+.label {
+  font-size: 12px;
+  font-weight: 400;
+}
+.b {
+  width: cover;
+  height: 36px;
+  background-color: blue;
+  border-radius: 12px;
+  text-align: center;
+  color: white;
+}
+.error-msg {
+  color: #ff0b37;
+  font-size: 12px;
+  font-weight: 400;
+}

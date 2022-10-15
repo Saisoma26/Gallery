@@ -1,0 +1,29 @@
+.events-container {
+  display: flex;
+}
+.events-list-container {
+  width: 60%;
+  background-color: #3a4b63;
+  height: cover;
+  padding: 20px;
+  padding-right: 10px;
+}
+.events-heading {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: white;
+}
+.events-list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.active-event-container {
+  background-color: white;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,62 @@
+.latest-match-bg-container {
+  background-color: black;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding-top: 0px;
+}
+.team-details {
+  margin-top: 80px;
+}
+.competing-team-name {
+  color: white;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.match-date {
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 7px;
+}
+.match-venue {
+  color: white;
+  font-size: 16px;
+}
+.match-result {
+  color: white;
+  font-size: 16px;
+}
+.competing-team-logo {
+  width: 50px;
+  height: 60px;
+  align-self: center;
+}
+.match-details-container {
+  text-align: right;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.details1 {
+  color: white;
+  text-align: end;
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 0px;
+}
+.details {
+  color: white;
+  text-align: end;
+  font-size: 12px;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+.details2 {
+  color: white;
+  font-weight: bold;
+  margin-bottom: 0px;
+  font-size: 16px;
+  text-align: end;
+}

@@ -1,0 +1,33 @@
+.blog-info {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+.blog-details-title {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.author-details {
+  display: flex;
+}
+.author-pic {
+  width: 24px;
+  height: 24px;
+  border-radius: 100%;
+  margin-right: 8px;
+}
+.details-author-name {
+  font-size: 18px;
+  font-weight: 500;
+}
+.blog-image {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+.blog-content {
+  font-size: 16px;
+  font-weight: 400;
+}

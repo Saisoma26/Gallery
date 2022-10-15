@@ -1,0 +1,22 @@
+.appcard {
+  background-color: transparent;
+  padding: 10px;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+}
+.image {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 5px;
+}
+.appname {
+  font-size: 18px;
+  text-align: center;
+}
+.b {
+  width: 80px;
+  height: 80px;
+  background-color: transparent;
+  border-width: 0px;
+}

@@ -1,0 +1,20 @@
+.back {
+  background-color: #ffc2a0;
+  background-size: cover;
+  padding: 30px;
+}
+
+.card {
+  background-color: white;
+  border-radius: 5px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  color: #ff8542;
+  font-size: 44px;
+  font-weight: bold;
+  text-align: center;
+  margin: 5px;
+}
